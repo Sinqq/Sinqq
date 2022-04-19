@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sinqq
 - 👀 I’m interested in ... Coding/ Games
 - 🌱 I’m currently learning ... Ruby, C++
-- 💞️ I’m looking to collaborate on ... My WeakPasswordScript
-- 📫 How to reach me ... no link.. **yet**
+- 💞️ I’m looking to collaborate on (nothing)
+- 📫 How to reach me ... www.sinq.cf
 
 <!---
 Sinqq/Sinqq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
